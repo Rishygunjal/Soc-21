@@ -3,6 +3,7 @@
                                                 WnCC’s Season of Code (Summer) 2021 
                                                 
                                                               Resobin
+                                                Not the Bin we deserve but the bin we need               
 
                                                 
 I learned a lot of things in the Summer of Code and I am glad I took it.The timeline of work is as follows:
